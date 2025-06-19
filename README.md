@@ -4,9 +4,6 @@ Main/dev:
 [![Linux Status](https://github.com/SteveDoyle2/pyNastran/workflows/CI/badge.svg)](https://github.com/SteveDoyle2/pyNastran/actions?query=workflow%3ACI+branch%3Amaster)
 [![Coverage Status](https://codecov.io/gh/SteveDoyle2/pyNastran/branch/main/graph/badge.svg)](https://codecov.io/gh/SteveDoyle2/pyNastran)
 
-See the [Installation Instructions](https://pynastran-git.readthedocs.io/en/1.4/installation/installation.html#installation-from-release)
-for instructions on installing pyNastran.
-
 
 <!---
 
